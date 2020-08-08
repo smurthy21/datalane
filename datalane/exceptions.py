@@ -1,0 +1,2 @@
+class YMLParserException(Exception):
+    pass

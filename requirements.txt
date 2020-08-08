@@ -1,0 +1,12 @@
+sqlalchemy
+click
+shell
+pyyaml
+PyMySQL
+lazy_property
+boto3
+twine
+tox
+coverage
+wheel
+flake8
