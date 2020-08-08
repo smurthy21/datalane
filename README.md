@@ -71,5 +71,3 @@ load_products:
   sqlfile:  
           ${repo}/incremental/sales/final.sql
 ```
-
-
